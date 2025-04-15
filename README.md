@@ -1,12 +1,91 @@
-# React + Vite
+✅ React ToDoリスト
+React を使って作られた、シンプルで使いやすい ToDo リストアプリです。タスクの追加と削除ができます。
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ 使用技術
+React
+CSS
+JavaScript (ES6+)
 
-Currently, two official plugins are available:
+📸 デモ
+ライブデモを見る
+lamabishaltodolist.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 主な機能
+✅ タスクの追加
+❌ タスクの削除
+🔄 UIが自動更新
+⚛️ React Hooks を使用
 
-## Expanding the ESLint configuration
+📦 インストール方法
+リポジトリをクローンします：
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+必要なパッケージをインストール：
+
+bash
+npm install
+開発サーバーを起動：
+
+bash
+npm start
+
+🗂️ プロジェクト構成
+css
+Copy
+Edit
+src/
+├── components/
+│   └── TodoItem.jsx
+├── App.jsx
+├── index.js
+📄 ライセンス
+
+このプロジェクトはオープンソースで、自由にご利用いただけます。
+
+✅ React To-Do List
+A simple and clean to-do list app built with React. You can add and delete tasks easily.
+
+🛠️ Built With
+React
+CSS
+Script (ES6+)
+
+📸 Demo
+Live Demo
+lamabishaltodolist.netlify.app
+
+🚀 Features
+✅ Add new tasks
+❌ Delete tasks
+💾 Automatically updates UI
+⚛️ Powered by React hooks
+
+📦 Installation
+Clone the repo:
+
+bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+Install dependencies:
+
+bash
+npm install
+Start the development server:
+
+bash
+npm start
+
+🗂️ Project Structure
+css
+Copy
+Edit
+src/
+├── components/
+│   └── TodoItem.jsx
+├── App.jsx
+├── index.js
+
+📄 License
+This project is open source and free to use.
