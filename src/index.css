@@ -1,0 +1,19 @@
+@import "tailwindcss";
+body {
+  font-family: "Noto Sans JP", "M PLUS 1p", "Hiragino Sans", Meiryo, sans-serif;
+  background-color: black;
+  cursor: default;
+}
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100%;
+  background: url("cat.jpg") no-repeat center center;
+  background-size: cover;
+  filter: blur(7px);
+  z-index: -1;
+}
+
