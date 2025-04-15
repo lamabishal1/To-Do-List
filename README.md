@@ -8,6 +8,7 @@ JavaScript (ES6+)
 
 📸 デモ
 ライブデモを見る
+
 lamabishaltodolist.netlify.app
 
 🚀 主な機能
@@ -54,6 +55,7 @@ Script (ES6+)
 
 📸 Demo
 Live Demo
+
 lamabishaltodolist.netlify.app
 
 🚀 Features
