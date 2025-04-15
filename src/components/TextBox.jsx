@@ -38,10 +38,16 @@ function TextBox() {
             items.map((item, index) =>(
             <div 
             key={index} 
-            className="flex justify-between my-1 border-3 border-black rounded w-100 group">
-              <label   
-              className='my-2 text-left pl-8 '>
-              {item}
+            className="flex justify-between text-left  my-1 border-3 border-black rounded w-100 group">
+            
+              <label  
+              className='my-2 pl-3 flex items-center'>
+                <input type="checkbox" 
+                className='peer mr-2 border bworder-black appearance-none rounded-full w-4 h-4 checked:bg-green-500 checked:ring-'/>
+              <span 
+              className='peer-checked:line-through'>{item}
+              </span>
+
             </label>
             <button onClick={() => handleDelete(index)}
              className='cursor-pointer mr-1 opacity-0 group-hover:opacity-100 transition-opacity duration-200' >
