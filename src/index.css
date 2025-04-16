@@ -16,4 +16,12 @@ body::before {
   filter: blur(7px);
   z-index: -1;
 }
+.bix{
+  font-size: 10px;
+
+}
+.btn1{
+  font-size: 12px;
+  margin-right: 4px;
+}
 
