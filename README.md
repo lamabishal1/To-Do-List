@@ -90,27 +90,41 @@ Live Demo
 
 
 🚀 Features
+
 ✅ Add new tasks
+
 ❌ Delete tasks
+
 💾 Automatically updates UI
+
 ⚛️ Powered by React hooks
 
 
 📦 Installation
+
 Clone the repo:
 
 
+
 bash
+
 git clone https://[github.com/lamabishal1/To-Do-List.git](https://github.com/lamabishal1/To-Do-List)
+
 cd your-repo-name
+
+
 Install dependencies:
 
 bash
+
 npm install
+
 Start the development server:
 
 bash
+
 npm start
+
 
 🗂️ Project Structure
 css
@@ -122,5 +136,7 @@ src/
 ├── App.jsx
 ├── index.js
 
+
 📄 License
+
 This project is open source and free to use.
