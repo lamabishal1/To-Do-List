@@ -9,7 +9,7 @@ JavaScript (ES6+)
 📸 デモ
 ライブデモを見る
 
-lamabishaltodolist.netlify.app
+todolistwebbo.netlify.app
 
 🚀 主な機能
 ✅ タスクの追加
@@ -21,7 +21,7 @@ lamabishaltodolist.netlify.app
 リポジトリをクローンします：
 
 bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://[github.com/lamabishal1/To-Do-List.git](https://github.com/lamabishal1/To-Do-List)
 cd your-repo-name
 必要なパッケージをインストール：
 
@@ -68,7 +68,7 @@ lamabishaltodolist.netlify.app
 Clone the repo:
 
 bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://[github.com/lamabishal1/To-Do-List.git](https://github.com/lamabishal1/To-Do-List)
 cd your-repo-name
 Install dependencies:
 
