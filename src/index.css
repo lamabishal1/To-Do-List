@@ -1,7 +1,6 @@
 @import "tailwindcss";
 body {
   font-family: "Noto Sans JP", "M PLUS 1p", "Hiragino Sans", Meiryo, sans-serif;
-  background-color: black;
   cursor: default;
 }
 body::before {
