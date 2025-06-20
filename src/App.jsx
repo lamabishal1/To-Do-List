@@ -1,4 +1,4 @@
-import react from 'react'
+import React from 'react'
 import TextBox from './components/TextBox.jsx'
 import TextList from './components/TextList.jsx'
 
